@@ -19,3 +19,6 @@ General Pipeline
 11. split dataset into train and test sets
 12. used keras to run CNN achitecure, and evalute performance
 13. For ablation test, Word2Vec pre-tranined on clinical case reports was used generate embeddigs used in the CNN achitecure and evaluated. 
+
+Prerequirest: Keras + Tensorflow
+
