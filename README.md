@@ -5,6 +5,8 @@ Dataset Used:
 The datasets used in this study are created from the MIMIC III database. They consist of clinical summary notes from heart failure hospital readmissions. The authors create two datasets, one for all readmissions, and one for readmissions within 30 days. 
 https://physionet.org/content/mimiciii/1.4/
 
+Prerequirests: Keras + Tensorflow
+
 General Pipeline
 1. imported NOTEEVENTS.csv, ADMISSIONS.csv, DIAGNOSES_ICD.csv
 2. Filtred DIAGNOSES_ICD table to only include rows of data with heart failure ICD-9 codes:'39891', '40201', '40211', '40291', '40401', '40403', '40411', '40413', '40491', '40493', '4280', '4281', '42820','42821', '42822', '42823', '42830', '42831', '42832', '42833', '42840', '42841', '42842', '42843','4289'
@@ -19,6 +21,4 @@ General Pipeline
 11. split dataset into train and test sets
 12. used keras to run CNN achitecure, and evalute performance
 13. For ablation test, Word2Vec pre-tranined on clinical case reports was used generate embeddigs used in the CNN achitecure and evaluated. 
-
-Prerequirest: Keras + Tensorflow
 
