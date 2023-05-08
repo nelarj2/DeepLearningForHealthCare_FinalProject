@@ -1,6 +1,6 @@
 # DeepLearningForHealthCare_FinalProject
 
-ORIGNIAL PAPER:
+ORIGNIAL PAPER:\n
 This repository contains the code to reproduce experiments from the paper "Predicting Heart Failure Readmission from Clinical Notes Using Deep Learning" [1]
 The authors aim to prove that deep learning models are more accurate at the readmission prediction task as compared to other machine learning models. Specifically, the authors hypothesize that a CNN model will perform better than a regular machine learning model based on random forest. We will test these same two models to compare performance.
  
