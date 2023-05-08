@@ -15,8 +15,8 @@ Link to dataset: https://physionet.org/content/mimiciii/1.4/
 5) You'll recive an email that your application is approved, you can login in to phsionet and access the data. 
 
 Prerequirests: <br>
-Keras + Tensorflow
-Word2Vec PubMed-and-PMC-w2v.bin 3.08GB http://bio.nlplab.org/
+Keras + Tensorflow <br>
+Word2Vec PubMed-and-PMC-w2v.bin 3.08GB http://bio.nlplab.org/ <br>
 Glove Common Crawl (42B tokens, 1.9M vocab, uncased, 300d vectors, 1.75 GB) https://github.com/stanfordnlp/GloVe <br>
 
 [1] [Xiong Liu, Yu Chen, Jay Bae, Hu Li, Joseph Johnston, and Todd Sanger. 2019. Predicting heart failure read-mission from clinical notes using deep learning.] <br>
