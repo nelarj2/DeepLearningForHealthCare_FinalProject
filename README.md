@@ -19,5 +19,6 @@ Keras + Tensorflow <br>
 Word2Vec PubMed-and-PMC-w2v.bin 3.08GB http://bio.nlplab.org/ <br>
 Glove Common Crawl (42B tokens, 1.9M vocab, uncased, 300d vectors, 1.75 GB) https://github.com/stanfordnlp/GloVe <br>
 
+References: <br>
 [1] [Xiong Liu, Yu Chen, Jay Bae, Hu Li, Joseph Johnston, and Todd Sanger. 2019. Predicting heart failure read-mission from clinical notes using deep learning.] <br>
 [2] A. E. Johnson et al. MIMIC-III a freely accessible critical care database, Sci. Data, vol. 3, 2016. 
