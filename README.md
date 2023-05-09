@@ -15,6 +15,7 @@ Link to dataset: https://physionet.org/content/mimiciii/1.4/
 5) You'll recive an email that your application is approved, you can login in to phsionet and access the data. 
 
 Prerequirests: <br>
+Python 3.8–3.11
 Keras + Tensorflow + nltk + scikit + pandas + numpy <br>
 Word2Vec PubMed-and-PMC-w2v.bin 3.08GB http://bio.nlplab.org/ <br>
 Glove Common Crawl (42B tokens, 1.9M vocab, uncased, 300d vectors, 1.75 GB) https://github.com/stanfordnlp/GloVe <br>
