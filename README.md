@@ -1,7 +1,7 @@
 # DeepLearningForHealthCare_FinalProject
 
 
-EXTRA CREDIT DESCRIPTIVE NOTEBOOL:
+EXTRA CREDIT DESCRIPTIVE NOTEBOOK:
 LISTED AS DL_FinalProject_Descriptive Notebook.ipynb
 
 
