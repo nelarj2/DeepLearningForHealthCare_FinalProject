@@ -5,12 +5,12 @@ EXTRA CREDIT DESCRIPTIVE NOTEBOOK: <br>
 LISTED AS DL_FinalProject_Descriptive Notebook.ipynb
 
 
-ORIGNIAL PAPER: <br>
+ORIGINAL PAPER: <br>
 This repository contains the code to reproduce experiments from the paper "Predicting Heart Failure Readmission from Clinical Notes Using Deep Learning" [1]
 The authors aim to prove that deep learning models are more accurate at the readmission prediction task as compared to other machine learning models. Specifically, the authors hypothesize that a CNN model will perform better than a regular machine learning model based on random forest. We will test these same two models to compare performance.
  
  
-DATA DOWNLOAD INSTRCTUTION: <br>
+DATA DOWNLOAD INSTRUCTIONS: <br>
 The datasets used in this study are created from the MIMIC III database. They consist of clinical summary notes from heart failure hospital readmissions. Files used to generate dataset were the "NOTEEVENTS.csv.gz" (1.1GB), "DIAGNOSES_ICD.csv.gz" (4.5MB) and "ADMISSIONS.csv.gz" (2.4MB) [2]
 Link to dataset: https://physionet.org/content/mimiciii/1.4/
 1) Using the link to the dataset, create a physinet account.
@@ -19,7 +19,7 @@ Link to dataset: https://physionet.org/content/mimiciii/1.4/
 4) Submit your training to physinet 
 5) You'll recive an email that your application is approved, you can login in to phsionet and access the data. 
 
-Prerequirests: <br>
+Prerequisites: <br>
 Python 3.8–3.11 <br>
 Keras + Tensorflow + nltk + scikit + pandas + numpy <br>
 Word2Vec PubMed-and-PMC-w2v.bin 3.08GB http://bio.nlplab.org/ <br>
